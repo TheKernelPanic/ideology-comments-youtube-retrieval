@@ -1,0 +1,5 @@
+.idea
+.env
+youtube_comment_threads.db
+targets.yml
+output/comments.csv
